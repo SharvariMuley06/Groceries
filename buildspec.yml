@@ -3,7 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "HTML Website Build Successful"
+      - echo "Build Successful"
 
 artifacts:
   files:
